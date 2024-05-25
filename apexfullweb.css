@@ -293,7 +293,21 @@
 .xx {
   display: block;
   text-align: center;
+margin-right: ;
 }
+
+.xx1 {
+  display: block;
+  text-align: center;
+margin-right: 170px;
+}
+
+.xx2 {
+  display: block;
+  text-align: center;
+margin-right: 170px;
+}
+
 .footer,
 .second_footer {
   display: flex;
@@ -348,7 +362,7 @@
 .inptmail {
   height: 30px;
   width: 250px;
-  margin-left: 40px;
+  margin-left: 80px;
 }
 
 
@@ -374,12 +388,13 @@
 .help {
   list-style: none;
   text-align: center;
+  margin-right: 90px;
 }
 .about_apex_title {
   margin-left: 210px;
 }
 .mainhelp {
-  margin-left: 40px;
+  margin-right: 50px;
 }
 li a {
   color: black;
@@ -391,10 +406,10 @@ li a:hover {
 .visacard {
   justify-items: center;
   align-items: center;
-  margin-left: 90px;
+  margin-right: 90px;
 }
 .mainvisacard{
-  margin-right: ;
+  margin-right: 10px;
 }
 .abs_bottom {
   position: absolute;
